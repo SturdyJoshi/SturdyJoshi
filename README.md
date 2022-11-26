@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SturdyJoshi
+- 👋 Hi, I’m @NeerajJoshi
 - 👀 I’m interested in designing the relational databases, solving real life problems and full stack development
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on real life problem solving projects
